@@ -1,5 +1,5 @@
 # Hi, I'm Jakub
-Aspiring Data Developer | Python Enthusiast | My journey into Data Science & Machine Learning
+Aspiring Data Developer / My journey into Data Science & Machine Learning
 
 ![Dashboard Demo](https://github.com/jakubsmigielski/Stock-Price-Prediction-Dashboard-First-Project/raw/main/demo_project_dashboard.gif)
 
