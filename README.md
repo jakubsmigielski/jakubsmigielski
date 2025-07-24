@@ -6,5 +6,22 @@ Aspiring Data Developer / My journey into Data Science & Machine Learning
 Data Science & ML Enthusiast Dashboard 
 Python, Streamlit, scikit-learn, Pandas
 
-Thats my first project: [Stock Price Prediction Dashboard](https://github.com/jakubsmigielski/Stock-Price-Prediction-Dashboard-First-Project)
+🔗: [Stock Price Prediction Dashboard](https://github.com/jakubsmigielski/Stock-Price-Prediction-Dashboard-First-Project)
 - Learning: Data Science, ML, Python
+  
+---
+
+###  New Project: Customer Segmentation Pipeline 
+
+![Customer Segmentation Demo](https://github.com/jakubsmigielski/rfm-clustering-bi/demo/ecommerce_powerbi.gif)
+
+ Full analytics pipeline for customer segmentation using:  
+`RFM Analysis`, `K-Means Clustering`, `Power BI and Tableau`, `SQLite`, `Python`
+
+🔗 [View the project](https://github.com/jakubsmigielski/rfm-clustering-bi)
+
+- Cleaned real transactional data  
+- Designed RFM features and applied clustering  
+- Built SQL-based data layer and Machine Learning predictions  
+- Visualized results in BI dashboards  
+- Learned to structure end-to-end projects
