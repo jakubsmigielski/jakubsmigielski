@@ -13,8 +13,6 @@ Python, Streamlit, scikit-learn, Pandas
 
 ###  New Project: Customer Segmentation Pipeline 
 
-![Customer Segmentation Demo](https://github.com/jakubsmigielski/rfm-clustering-bi/demo/ecommerce_powerbi.gif)
-
  Full analytics pipeline for customer segmentation using:  
 `RFM Analysis`, `K-Means Clustering`, `Power BI and Tableau`, `SQLite`, `Python`
 
