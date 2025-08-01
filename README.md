@@ -23,7 +23,7 @@ Educational project ExpenseTracker 3D is a modern, visually-rich web application
 - Implemented a complete backend with secure user authentication, CRUD operations for expenses, and automated recurring transactions.
 - Developed a gamification system with achievements and dynamic, animated notifications.
 - Integrated data visualization with Chart.js to display financial summaries in a user-friendly dashboard.
-
+---
 # Customer Segmentation Pipeline with RFM, K-Means & BI Dashboards
  Full analytics pipeline for customer segmentation using:  
 `RFM Analysis`, `K-Means Clustering`, `Power BI and Tableau`, `SQLite`, `Python`
