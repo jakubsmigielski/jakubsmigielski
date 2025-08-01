@@ -14,6 +14,7 @@ Data Science & ML Enthusiast Dashboard
 
 Educational project ExpenseTracker 3D 
 `Python`, `Flask`, `SQLAlchemy`, `JavaScript`, `Three.js`, `Bootstrap 5`, `Chart.js`
+
 ![Dashboard Demo](https://github.com/jakubsmigielski/expense-tracker-app-prototype/blob/main/images./ExpenseTracker_demo.gif)
 
 🔗 [View the project](https://github.com/jakubsmigielski/expense-tracker-app-prototype)
