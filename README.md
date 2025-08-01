@@ -6,7 +6,7 @@ Aspiring Data Developer / My journey into Data Science & Machine Learning
 Data Science & ML Enthusiast Dashboard 
 Python, Streamlit, scikit-learn, Pandas
 
-🔗 [Stock Price Prediction Dashboard](https://github.com/jakubsmigielski/Stock-Price-Prediction-Dashboard-First-Project)
+🔗 [View the project](https://github.com/jakubsmigielski/Stock-Price-Prediction-Dashboard-First-Project)
 - Learning: Data Science, ML, Python
   
 ---
