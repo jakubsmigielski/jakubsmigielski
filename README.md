@@ -10,6 +10,19 @@ Python, Streamlit, scikit-learn, Pandas
 - Learning: Data Science, ML, Python
   
 ---
+# ExpenseTracker 3D Full-Stack-Educational Project
+
+Educational project ExpenseTracker 3D is a modern, visually-rich web application designed to make personal finance management an engaging and intuitive experience
+**Technologies**: `Python`, `Flask`, `SQLAlchemy`, `JavaScript`, `Three.js`, `Bootstrap 5`, `Chart.js`
+**Database**: Designed and managed a relational database for users, expenses, recurring transactions, and achievements using SQLAlchemy.
+![Dashboard Demo](https://github.com/jakubsmigielski/expense-tracker-app-prototype/blob/main/images./ExpenseTracker_demo.gif)
+
+🔗 [View the project](https://github.com/jakubsmigielski/expense-tracker-app-prototype)
+
+- Built an interactive 3D landing page with a generative logo and particle system that reacts to mouse movements.
+- Implemented a complete backend with secure user authentication, CRUD operations for expenses, and automated recurring transactions.
+- Developed a gamification system with achievements and dynamic, animated notifications.
+- Integrated data visualization with Chart.js to display financial summaries in a user-friendly dashboard.
 
 # Customer Segmentation Pipeline with RFM, K-Means & BI Dashboards
  Full analytics pipeline for customer segmentation using:  
