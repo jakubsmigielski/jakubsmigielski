@@ -4,7 +4,9 @@
 # Real Estate Price Analysis in Poland-using R/python (educational)
 
 🔗 [View the project](https://github.com/jakubsmigielski/ds-python-r-housing-study)
-`Python` pandas, numpy, matplotlib, seaborn, scikit-learn  `R` tidyverse, randomForest, caret, reshape2 
+
+`Python` pandas, numpy, matplotlib, seaborn, scikit-learn 
+`R` tidyverse, randomForest, caret, reshape2 
 
 
 # Data Science & ML Enthusiast Dashboard 
