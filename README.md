@@ -1,10 +1,11 @@
 # Hi, I'm Jakub
 
- Real Estate Price Analysis in Poland-using R/python (educational)
+# Real Estate Price Analysis in Poland-using R/python (educational)
 🔗 [View the project](https://github.com/jakubsmigielski/ds-python-r-housing-study)
 
+---
 
- Data Science & ML Enthusiast Dashboard 
+ #Data Science & ML Enthusiast Dashboard 
 `Python`, `treamlit`, `scikit-learn`, `Pandas`
 
 ![Dashboard Demo](https://github.com/jakubsmigielski/Stock-Price-Prediction-Dashboard-First-Project/raw/main/demo_project_dashboard.gif)
