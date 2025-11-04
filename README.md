@@ -8,7 +8,7 @@ Data Science & ML Enthusiast Dashboard
 🔗 [View the project](https://github.com/jakubsmigielski/Stock-Price-Prediction-Dashboard-First-Project)
 - Learning: Data Science, ML, Python
   
----
+
 # ExpenseTracker 3D Full-Stack-Educational Project
 
 Educational project ExpenseTracker 3D 
