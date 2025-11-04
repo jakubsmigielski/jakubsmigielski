@@ -1,7 +1,7 @@
 # Hi, I'm Jakub
 
 
- Real Estate Price Analysis in Poland-using R/python
+## Real Estate Price Analysis in Poland-using R/python
 🔗 [View the project](https://github.com/jakubsmigielski/ds-python-r-housing-study)
 
 `Python` pandas, numpy, matplotlib, seaborn, scikit-learn 
@@ -9,7 +9,7 @@
 `R` tidyverse, randomForest, caret, reshape2 
 
 
- Data Science & ML Enthusiast Dashboard 
+## Data Science & ML Enthusiast Dashboard 
 `Python`, `treamlit`, `scikit-learn`, `Pandas`
 
 ![Dashboard Demo](https://github.com/jakubsmigielski/Stock-Price-Prediction-Dashboard-First-Project/raw/main/demo_project_dashboard.gif)
@@ -19,7 +19,7 @@
 - Learning: Data Science, ML, Python
   
 
- ExpenseTracker 3D Full-Stack-Educational Project
+## ExpenseTracker 3D Full-Stack-Educational Project
 
  Educational project ExpenseTracker 3D 
 `Python`, `Flask`, `SQLAlchemy`, `JavaScript`, `Three.js`, `Bootstrap 5`, `Chart.js`
