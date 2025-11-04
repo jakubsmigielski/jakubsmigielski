@@ -1,5 +1,5 @@
 # Hi, I'm Jakub
----
+
 
 # Real Estate Price Analysis in Poland-using R/python (educational)
 
@@ -15,9 +15,9 @@
 - Learning: Data Science, ML, Python
   
 
- ExpenseTracker 3D Full-Stack-Educational Project
+# ExpenseTracker 3D Full-Stack-Educational Project
 
-# Educational project ExpenseTracker 3D 
+ Educational project ExpenseTracker 3D 
 `Python`, `Flask`, `SQLAlchemy`, `JavaScript`, `Three.js`, `Bootstrap 5`, `Chart.js`
 
 
