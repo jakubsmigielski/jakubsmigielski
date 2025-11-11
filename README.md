@@ -1,5 +1,5 @@
 # Hi, I'm Jakub, 
-### learning data science/ML
+### Learning data science/ML
 
 ---
 
