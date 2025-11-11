@@ -1,6 +1,5 @@
-# Hi, I'm Jakub
+# Hi, I'm Jakub, learning data science/ML
 
-Educational projects 
 
 ### Real Estate Price Analysis in Poland-using R/python
 🔗 [View the project](https://github.com/jakubsmigielski/ds-python-r-housing-study)
