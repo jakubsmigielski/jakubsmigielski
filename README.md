@@ -1,8 +1,8 @@
 # Hi, I'm Jakub, 
-## learning data science/ML
+### learning data science/ML
 
 
-### Real Estate Price Analysis in Poland-using R/python
+## Real Estate Price Analysis in Poland-using R/python
 🔗 [View the project](https://github.com/jakubsmigielski/ds-python-r-housing-study)
 
 `Python` pandas, numpy, matplotlib, seaborn, scikit-learn 
@@ -11,13 +11,13 @@
 
 
 
-### Spotify Song Popularity Prediction testing-model
+## Spotify Song Popularity Prediction testing-model
 🔗 [View the project](https://github.com/jakubsmigielski/simple-model-spotify-pred-educational)
 
 `Python` pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost
 
 
-### ExpenseTracker 3D Full-Stack-Educational Project
+## ExpenseTracker 3D Full-Stack-Educational Project
 
  Educational project ExpenseTracker 3D 
 `Python`, `Flask`, `SQLAlchemy`, `JavaScript`, `Three.js`, `Bootstrap 5`, `Chart.js`
@@ -32,7 +32,7 @@
 
 
 
-### Customer Segmentation Pipeline with RFM, K-Means & BI Dashboards
+## Customer Segmentation Pipeline with RFM, K-Means & BI Dashboards
  Full analytics pipeline for customer segmentation using:  
 `RFM Analysis`, `K-Means Clustering`, `Power BI and Tableau`, `SQLite`, `Python`
 
