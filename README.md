@@ -34,13 +34,14 @@
 
 
 ## Customer Segmentation Pipeline with RFM, K-Means & BI Dashboards
- Full analytics pipeline for customer segmentation using:  
-`RFM Analysis`, `K-Means Clustering`, `Power BI and Tableau`, `SQLite`, `Python`
+ Full analytics pipeline for customer segmentation
+
 
 
 ![Dashboard Demo](https://github.com/jakubsmigielski/rfm-clustering-bi/blob/main/demo/ecommerce_powerbi.gif)
 
 
 🔗 [View the project](https://github.com/jakubsmigielski/rfm-clustering-bi)
+`RFM Analysis`, `K-Means Clustering`, `Power BI and Tableau`, `SQLite`, `Python`
 
 
