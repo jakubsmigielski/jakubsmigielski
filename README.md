@@ -1,5 +1,4 @@
-# Hi, I'm Jakub, 
-## learning data science/ML
+# Hi, I'm Jakub, ## learning data science/ML
 
 
 ### Real Estate Price Analysis in Poland-using R/python
