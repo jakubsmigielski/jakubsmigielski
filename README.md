@@ -1,5 +1,6 @@
 # Hi, I'm Jakub
 
+Educational projects 
 
 ### Real Estate Price Analysis in Poland-using R/python
 🔗 [View the project](https://github.com/jakubsmigielski/ds-python-r-housing-study)
@@ -10,15 +11,11 @@
 
 ---
 
-### Data Science & ML Enthusiast Dashboard 
-`Python`, `treamlit`, `scikit-learn`, `Pandas`
+### Spotify Song Popularity Prediction testing-model
+🔗 [View the project](https://github.com/jakubsmigielski/simple-model-spotify-pred-educational)
 
-![Dashboard Demo](https://github.com/jakubsmigielski/Stock-Price-Prediction-Dashboard-First-Project/raw/main/demo_project_dashboard.gif)
+`Python` pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost
 
-
-🔗 [View the project](https://github.com/jakubsmigielski/Stock-Price-Prediction-Dashboard-First-Project)
-- Learning: Data Science, ML, Python
-  
 ---
 
 ### ExpenseTracker 3D Full-Stack-Educational Project
@@ -46,9 +43,4 @@
 
 🔗 [View the project](https://github.com/jakubsmigielski/rfm-clustering-bi)
 
-- Cleaned real transactional data  
-- Designed RFM features and applied clustering  
-- Built SQL-based data layer and Machine Learning predictions  
-- Visualized results in BI dashboards  
-- Learned to structure end-to-end projects
 
