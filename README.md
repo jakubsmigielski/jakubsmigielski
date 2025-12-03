@@ -3,7 +3,7 @@
 
 ---
 ## 🏀 NBA 🏀 Game Predictor-Predicting Match Outcomes-educational model 📖
-🔗 [View the project((https://github.com/jakubsmigielski/-NBA-Game-Predictor--XGBoost-ML-datapipeline-training)
+🔗 [View the project](https://github.com/jakubsmigielski/-NBA-Game-Predictor--XGBoost-ML-datapipeline-training)
 
 
 ## Data Creating/Cleansing/stadarization/Regression Linear 📖
